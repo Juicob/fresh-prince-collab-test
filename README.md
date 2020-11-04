@@ -5,12 +5,12 @@ Sand box repo to help get myself and others in my data science cohort familiar w
 
 [Verse 1]
 
-Now this is a story all about how
+Now this is a story all about how ** Anna **
 
-My life got flipped turned upside down
+My life got flipped turned upside down ** Anna **
 
-And I'd like to take a minute, just sit right there
-
+And I'd like to take a minute, just sit right there ** Anna **
+ 
 I'll tell you how I became the prince of a town called Bel-Air **- Juico**
 
 [Verse 2]

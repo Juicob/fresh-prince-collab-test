@@ -7,9 +7,9 @@
 
 
 
-
-
-
+print('Now this is a story all about how')
+print('My life got flipped turned upside down')
+print("And I'd like to take a minute, just sit right there")
 
 
 print('I\'ll tell you how I became the prince of a town called Bel-Air')
