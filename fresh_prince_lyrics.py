@@ -13,7 +13,7 @@
 
 
 print('I\'ll tell you how I became the prince of a town called Bel-Air')
-print('My life got flipped-turned upside down') 
+print('In West Philadelphia born and raised') 
 
 
 
